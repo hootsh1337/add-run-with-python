@@ -1,4 +1,4 @@
-Run the command.
+Runs the command:
 
 `python filename.py`
 
